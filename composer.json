@@ -1,13 +1,13 @@
 {
-    "name": "jeremykenedy/laravel-logger",
+    "name": "gogilo/laravel-logger",
     "description": "Laravel Logger Package",
     "keywords": [
-            "Laravel activity",
-            "Laravel activity logger",
-            "Laravel activity log",
-            "Laravel logger",
-            "Laravel log"
-        ],
+        "Laravel activity",
+        "Laravel activity logger",
+        "Laravel activity log",
+        "Laravel logger",
+        "Laravel log"
+    ],
     "license": "MIT",
     "type": "package",
     "authors": [
